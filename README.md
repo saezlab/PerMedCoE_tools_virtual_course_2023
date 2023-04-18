@@ -1,6 +1,7 @@
 # From transcriptomics to mechanistic models of signalling
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saezlab/PerMedCoE_tools_virtual_course_2023/blob/main/PerMedCoE_transcriptomics_mechanistic_signaling.ipynb)
 
-This repository contains the material for the [PerMedCoE virtual course: transcriptomics to mechanistic models of signalling](https://permedcoe.eu/training/virtual-course-from-transcriptomics-to-mechanistic-models-of-signalling/).
+This repository contains the material for the [PerMedCoE virtual course: transcriptomics to mechanistic models of signalling](https://permedcoe.eu/training/virtual-course-from-transcriptomics-to-mechanistic-models-of-signalling/). The course has an estimated duration of ~3h.
 
 ## Overview
 
