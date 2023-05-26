@@ -34,10 +34,10 @@ You can apply to the course [here](https://www.eventsforce.net/embl/frontend/reg
 The course will take place virtually in Zoom on Tuesday 18 April 2023, 13 - 16 h CEST, including breaks. The training will combine lectures and hands-on exercises, and participants are expected to attend the whole course.
 
 ## Trainers
-- Pablo Rodriguez Mier
-- Denes Turei
+- Pablo Rodriguez Mier*
+- Denes Turei*
 
-(Joint Research Center for Computational Biomedicine, Heidelberg University, PerMedCoE)
+>*Saez-Rodriguez Group, Institute for Computational Biomedicine, Heidelberg University
 
 
 If you have any questions or comments, you can contact Daniel Thomas López (dthlopez@ebi.ac.uk).
