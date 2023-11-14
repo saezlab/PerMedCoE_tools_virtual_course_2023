@@ -93,7 +93,7 @@ def get_selected_edges_and_nodes(graph, problem):
     ge = graph.edges
     ge = [ge[i] for i, v in enumerate(sel_edges) if v > 0]
     ve = graph.vertices
-    ve = [ve[i] for i, v in enumerate(sel_vertices) if v > 0]
+    ve = [ve[i] for i, v in enumerate(list(sel_vertices)) if v > 0]
     return ge, ve
 
 
