@@ -99,7 +99,7 @@ def get_selected_edges_and_nodes(graph, problem):
 
 def set_problem_value(problem, graph, node, value):
     p = problem.copy()
-    index = graph.vertices.index(node)
+    index = list(graph.vertices).index(node)
     if value > 0:
         node_values = p.symbols["species_activated_c0"]
         p += node_values[index] == 1
